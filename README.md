@@ -4,8 +4,8 @@ A Bayesian mixture model for clustering droplet-based single cell transcriptomic
 ## Description
 BAMMSC is an R package for clustering droplet-based single cell transcriptomic data from multiple individuals simultaneously. It adopts a Bayesian hierarchical Dirichlet multinomial mixture model, which explicitly characterizes three levels of variabilities (i.e., genes, cell types and individuals). BAMMSC is able to take account for data heterogeneity and batch effect, such as unbalanced sequencing depths, variable read length and hidden technical bias, among multiple individuals. BAMMSC also integrates DIMMSC for single individual analysis.
 
-# Author
-Zhe Sun, Li Chen, Qianhui Huang, Anthony Richard Cillo, Tracy Tabib, Ying Ding, Jay Kolls, Robert Lafyatis, Dario Vignali, Kong Chen, Ming Hu,* and Wei Chen* [link](https://www.biorxiv.org/content/biorxiv/early/2018/08/16/392662.full.pdf)
+# Cite work
+Zhe Sun, Li Chen, Qianhui Huang, Anthony Richard Cillo, Tracy Tabib, Ying Ding, Jay Kolls, Robert Lafyatis, Dario Vignali, Kong Chen, Ming Hu,* and Wei Chen* [link](https://www.nature.com/articles/s41467-019-09639-3)
 
 # Maintainer
 Zhe Sun <zhs31@pitt.edu>, Li Chen <li.chen@auburn.edu>

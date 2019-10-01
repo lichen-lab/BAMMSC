@@ -8,7 +8,7 @@ BAMMSC is an R package for clustering droplet-based single cell transcriptomic d
 Zhe Sun, Li Chen, Qianhui Huang, Anthony Richard Cillo, Tracy Tabib, Ying Ding, Jay Kolls, Robert Lafyatis, Dario Vignali, Kong Chen, Ming Hu,* and Wei Chen* [Nature Communications, Vol:10, No: 1649 (2019)](https://www.nature.com/articles/s41467-019-09639-3)
 
 # Maintainer
-Zhe Sun <zhs31@pitt.edu>, Li Chen <li.chen@auburn.edu>
+Zhe Sun <zhs31@pitt.edu>, Li Chen <chen61@iu.edu>
 
 
 # Install BAMMSC

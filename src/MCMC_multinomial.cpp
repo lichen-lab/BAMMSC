@@ -181,7 +181,7 @@ void MCMC(arma::field<arma::mat> & Xs,arma::cube & alphas,arma::field<arma::vec>
     logLik=olikes(iter);
     iter++;
     
-    if(iter%100==1) std::cout<<"iteration:"<<iter<<std::endl;
+    if(iter%100==1) Rcpp::Rcout<<"iteration:"<<iter<<std::endl;
   }
 
   
@@ -271,11 +271,3 @@ RcppExport SEXP MCMC_multinomial(SEXP Xs_, SEXP alphas_,SEXP Zs_,SEXP Ts_,
   return result;
 
 }
-
-
-
-
-
-
-
-  

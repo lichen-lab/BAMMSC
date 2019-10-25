@@ -13,7 +13,7 @@ arma::vec lgammaVec2(arma::vec inVec){
   arma::vec outVec(G);
   for(int g=0; g<G; g++){
     outVec(g) = std::lgamma(inVec(g));
-     if(!isfinite(outVec(g))){ // if inVec(g) is closer than -1e-154 to 0, e.g. -1e-155, -inf will be returned.
+     if(!std::isfinite(outVec(g))){ // if inVec(g) is closer than -1e-154 to 0, e.g. -1e-155, -inf will be returned.
             //So we would truncate it to a certain number: here it's lgamma(-1e-154)
             outVec(g) = 354.5891; // lgamma(-1e-154)
      }
@@ -224,4 +224,3 @@ RcppExport SEXP EM_multinomial(SEXP X_, SEXP K_, SEXP alpha_, SEXP maxIter_, SEX
 
         return result;
 }
-

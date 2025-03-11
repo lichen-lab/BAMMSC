@@ -8,7 +8,7 @@ BAMMSC is an R package for clustering droplet-based single cell transcriptomic d
 Zhe Sun, Li Chen, Qianhui Huang, Anthony Richard Cillo, Tracy Tabib, Ying Ding, Jay Kolls, Robert Lafyatis, Dario Vignali, Kong Chen, Ming Hu,* and Wei Chen* [Nature Communications, Vol:10, No: 1649 (2019)](https://www.nature.com/articles/s41467-019-09639-3)
 
 # Maintainer
-Zhe Sun <zhs31@pitt.edu>, Li Chen <chen61@iu.edu>
+Zhe Sun <zhs31@pitt.edu>, Li Chen <li.chen1@ufl.edu>
 
 
 # Install BAMMSC
@@ -116,7 +116,7 @@ The Mouse lung data analysis could be found at https://github.com/lichen-lab/BAM
 
 # Fastq files of three real datasets
 
-All fastq files could be downloaded [here](https://pitt.app.box.com/s/aqwl3aedfqxp41oecvudybv9h9u0t4ai)
+All fastq files could be downloaded [here]([https://pitt.app.box.com/s/aqwl3aedfqxp41oecvudybv9h9u0t4ai](https://pitt-my.sharepoint.com/personal/xiy231_pitt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxiy231%5Fpitt%5Fedu%2FDocuments%2FShare%2FRaw%5Fdata%2Ffq%5Fsz&ga=1&LOF=1))
 
 
 

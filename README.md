@@ -116,7 +116,8 @@ The Mouse lung data analysis could be found at https://github.com/lichen-lab/BAM
 
 # Fastq files of three real datasets
 
-All fastq files could be downloaded [here]([https://pitt.app.box.com/s/aqwl3aedfqxp41oecvudybv9h9u0t4ai](https://pitt-my.sharepoint.com/personal/xiy231_pitt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxiy231%5Fpitt%5Fedu%2FDocuments%2FShare%2FRaw%5Fdata%2Ffq%5Fsz&ga=1&LOF=1))
+All fastq files could be downloaded at https://pitt-my.sharepoint.com/personal/xiy231_pitt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxiy231%5Fpitt%5Fedu%2FDocuments%2FShare%2FRaw%5Fdata%2Ffq%5Fsz&ga=1&LOF=1
+
 
 
 
